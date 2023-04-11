@@ -5,7 +5,7 @@ import sys
 import openai
 from pprint import pprint,pformat
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 # This script is meant to be imported and used as a module.
 # It is not supposed to be called directly.
